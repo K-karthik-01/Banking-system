@@ -1,3 +1,4 @@
+#calling the bank accounts class to create objects and test the methods
 from bank_accounts import *
 
 John=BankAccount('John', 1000)
